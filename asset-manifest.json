@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/samirchau/moviesmandu/static/css/main.7cf0f05c.css",
+    "main.js": "/samirchau/moviesmandu/static/js/main.15e11ead.js",
+    "static/js/787.a2f5fe7a.chunk.js": "/samirchau/moviesmandu/static/js/787.a2f5fe7a.chunk.js",
+    "index.html": "/samirchau/moviesmandu/index.html",
+    "main.7cf0f05c.css.map": "/samirchau/moviesmandu/static/css/main.7cf0f05c.css.map",
+    "main.15e11ead.js.map": "/samirchau/moviesmandu/static/js/main.15e11ead.js.map",
+    "787.a2f5fe7a.chunk.js.map": "/samirchau/moviesmandu/static/js/787.a2f5fe7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cf0f05c.css",
+    "static/js/main.15e11ead.js"
+  ]
+}
